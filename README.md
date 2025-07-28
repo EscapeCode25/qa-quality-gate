@@ -4,6 +4,12 @@ Este proyecto contiene la infraestructura y configuración necesaria para analiz
 
 ## 🚀 Cómo usar
 
+Para facilitar el análisis de código en local usando SonarQube, puedes seguir este video paso a paso:
+
+[![Tutorial: Analiza tu código localmente con SonarQube](https://img.youtube.com/vi/v3evzZ-JOQo/0.jpg)](https://www.youtube.com/watch?v=v3evzZ-JOQo)
+
+🔗 [Ver en YouTube](https://www.youtube.com/watch?v=v3evzZ-JOQo)
+
 1. Levantar SonarQube:
    ```bash
    docker compose -f docker-compose.sonarqube.yml up -d
